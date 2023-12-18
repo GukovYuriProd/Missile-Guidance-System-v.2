@@ -1,0 +1,46 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl body
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/body_baseColor.png
+map_Bump -bm 1.000000 C:/body_normal.png
+
+newmtl camera
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/camera_baseColor.png
+map_d C:/camera_baseColor.png
+map_Bump -bm 1.000000 C:/camera_normal.png
+
+newmtl tex_3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/tex_3_baseColor.png
+map_Bump -bm 1.000000 C:/tex_3_normal.png
+
+newmtl wheels
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/wheels_baseColor.png
+map_Bump -bm 1.000000 C:/wheels_normal.png
